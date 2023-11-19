@@ -1,2 +1,2 @@
 # opp-python
-Sammlung von Python OOP-Übungen: Bibliothek, Bank, Hotel, Elektronikgeschäft. Demonstriert Vererbung, Polymorphismus und Aggregation.
+Sammlung von Python OOP-Übungen: Bibliothek, Bank, Hotel, Elektronikgeschäft usw. Demonstriert Vererbung, Polymorphismus und Aggregation.
