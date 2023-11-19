@@ -23,10 +23,7 @@ class EinzelnSport(Sportaktivitaet):
 
     def aktivitaets_info(self):
          return super().aktivitaets_info() + f", Ausruestung: {self.ausruestung}"
-      
-
-
-
+    
 
 manschaftssport = Mannschaftssport("Fußball", 22, 4)
 einzelnsport = EinzelnSport("Joga", 1, "Jogateppich,ruhiges Zimmer")
